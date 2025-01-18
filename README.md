@@ -1,2 +1,2 @@
 # Java_Assignments-
-This is the assignments from JAVA+DSA course -kunal Kushwaha
+This is the assignments from JAVA+DSA course. I will try to update it daily :)
